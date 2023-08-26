@@ -1,0 +1,52 @@
+.navbar{
+    background-image: url("nav.png");
+   
+   
+  }
+  
+  .navbar>a{
+      
+  }
+  
+  .search-div{
+      padding: 0px 9px;
+      border: 1px solid rgb(232, 232, 232);
+      border-radius: 12px;
+      background: rgb(248, 248, 248);
+      color: rgb(130, 130, 130);
+  }
+  
+  .search-div>input{
+      border: none;
+      background-color: transparent;
+      width: 15vw;
+      height: 45px;
+  }
+  .sign-in{
+      background-color: #f94a3d !important;
+      font-size: 20px !important;
+      border-color: #f94a3d;
+  }
+  
+  a:link {
+      font-size: 20px;
+      color: #212244;
+      background-color: transparent;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  
+   
+  .explore-btns{
+      
+      position:relative; 
+      left:-1470px; top:700px;
+  }
+  
+  .aboutuscontainer{
+      
+      font-size: 50px;
+      justify-content:between;
+       align-items:center ;
+  
+  }
